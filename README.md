@@ -1,1 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/6H2sAzcR)
+Hello this is my week 2 assignment & it's all about cat!
+- Link: "https://juliusweek2.netlify.app/"
+- Please check my repositories for the files included (index.html, style.css, responsive.css)
